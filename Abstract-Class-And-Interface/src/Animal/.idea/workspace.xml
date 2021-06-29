@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a09c550e-bb35-498e-900c-47066a51c158" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Stack-And-Queue/src/ImplementSlackUsingLinkedLink/GenericStackClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Access-Modifier-Static-Method-Static-Property/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Access-Modifier-Static-Method-Static-Property/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Access-Modifier-Static-Method-Static-Property/out/production/Access-Modifier-Static-Method-Static-Property/Circle/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Access-Modifier-Static-Method-Static-Property/out/production/Access-Modifier-Static-Method-Static-Property/Circle/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Access-Modifier-Static-Method-Static-Property/out/production/Access-Modifier-Static-Method-Static-Property/Circle/TestCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Access-Modifier-Static-Method-Static-Property/out/production/Access-Modifier-Static-Method-Static-Property/Circle/TestCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Access-Modifier-Static-Method-Static-Property/out/production/Access-Modifier-Static-Method-Static-Property/Student/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Access-Modifier-Static-Method-Static-Property/out/production/Access-Modifier-Static-Method-Static-Property/Student/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Access-Modifier-Static-Method-Static-Property/out/production/Access-Modifier-Static-Method-Static-Property/Student/TestStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Access-Modifier-Static-Method-Static-Property/out/production/Access-Modifier-Static-Method-Static-Property/Student/TestStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Class-Object-In-Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Class-Object-In-Java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Generic-Stack-Queue/src/Generic/CreateArrayMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Generic-Stack-Queue/src/Generic/CreateArrayMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Generic-Stack-Queue/src/Generic/InitClassGeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Generic-Stack-Queue/src/Generic/InitClassGeneric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Generic-Stack-Queue/src/Generic/InitInterfaceGeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Generic-Stack-Queue/src/Generic/InitInterfaceGeneric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Generic-Stack-Queue/src/Generic/WildCardGeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Generic-Stack-Queue/src/Generic/WildCardGeneric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IO-Binary-FIle-&amp;-Serialization/src/ExampleInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IO-Binary-FIle-&amp;-Serialization/src/ExampleInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IO-Binary-FIle-&amp;-Serialization/src/ExampleOutStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IO-Binary-FIle-&amp;-Serialization/src/ExampleOutStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Introduction-to-Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Introduction-to-Java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Introduction-to-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Introduction-to-Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Introduction-to-Java/DesignMenuForApplication/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Introduction-to-Java/SystemTime/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Introduction-to-Java/SystemTime/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Loop-in-Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Loop-in-Java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Map-Tree/src/BinarySearchTree/AbstractTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Map-Tree/src/BinarySearchTree/AbstractTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Map-Tree/src/BinarySearchTree/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Map-Tree/src/BinarySearchTree/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Map-Tree/src/BinarySearchTree/TestBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Map-Tree/src/BinarySearchTree/TestBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Map-Tree/src/BinarySearchTree/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Map-Tree/src/BinarySearchTree/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Map-Tree/src/BinarySearchTree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Map-Tree/src/BinarySearchTree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Map-Tree/src/Example/GetValueOfMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Map-Tree/src/Example/GetValueOfMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Map-Tree/src/Example/HashMapEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Map-Tree/src/Example/HashMapEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Map-Tree/src/Example/InitMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Map-Tree/src/Example/InitMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP-in-Java/src/Phone/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sorting-Algorithm/src/Example/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sorting-Algorithm/src/Example/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../String-And-Regex/src/CrawlSongExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../String-And-Regex/src/CrawlSongExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thread-Synchronization/src/AppCount/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thread-Synchronization/src/AppCount/Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thread-Synchronization/src/AppCount/CountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thread-Synchronization/src/AppCount/CountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thread-Synchronization/src/RacingCars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thread-Synchronization/src/RacingCars/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thread-Synchronization/src/RacingCars/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thread-Synchronization/src/RacingCars/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thread-Synchronization/src/Synchronized/NoSynchronizedMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thread-Synchronization/src/Synchronized/NoSynchronizedMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thread-Synchronization/src/Synchronized/UsingSynchronizedMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thread-Synchronization/src/Synchronized/UsingSynchronizedMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thread-Synchronization/src/Thread/RunnableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thread-Synchronization/src/Thread/RunnableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thread-Synchronization/src/Thread/RunnableDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thread-Synchronization/src/Thread/RunnableDemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thread-Synchronization/src/Thread/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thread-Synchronization/src/Thread/ThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thread-Synchronization/src/Thread/ThreadDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thread-Synchronization/src/Thread/ThreadDemoTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1ubZJQrSNuOlB6HGtm1mgfKWTK5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a09c550e-bb35-498e-900c-47066a51c158" name="Default Changelist" comment="" />
+      <created>1624936177265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624936177265</updated>
+      <workItem from="1624936179155" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
