@@ -1,4 +1,4 @@
-package Example;
+package InsertionSort;
 
 public class InsertionSort {
     public void insertionSort(int[] arr) {
